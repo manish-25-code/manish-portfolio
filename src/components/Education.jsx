@@ -13,7 +13,6 @@ function Education() {
 
           <div className="tl-meta">
             <p>Vellore Institute of Technology</p>
-            <p>Cumulative GPA: 7.40</p>
           </div>
 
           <p className="tl-desc">
